@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+*.h5
+*.tflite
+*.npy
+.DS_Store
+.streamlit/secrets.toml
