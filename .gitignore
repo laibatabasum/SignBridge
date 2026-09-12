@@ -8,3 +8,4 @@ venv/
 *.npy
 .DS_Store
 .streamlit/secrets.toml
+.venv/
