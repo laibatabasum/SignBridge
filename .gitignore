@@ -1,12 +1,18 @@
+# Python
 __pycache__/
 *.pyc
 .venv/
 venv/
 .ipynb_checkpoints/
-*.h5
-*.tflite
-*.npy
+
+# Models (We WANT to upload these for the portfolio!)
+# *.h5
+# *.tflite
+# *.npy
+
+# Data
+data/*.csv
+
+# OS / Editor
 .DS_Store
 .streamlit/secrets.toml
-.venv/
-data/*.csv
